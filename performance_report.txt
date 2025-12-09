@@ -1,0 +1,80 @@
+================================================================================
+DASHBOARD PERFORMANCE COMPARISON REPORT
+================================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Total metrics analyzed: 15
+Statistically significant results: 12 (80.0%)
+Dashboard 1 performed better: 14 metrics (93.3%)
+Dashboard 2 performed better: 1 metrics (6.7%)
+
+DETAILED RESULTS BY CATEGORY
+--------------------------------------------------------------------------------
+
+
+PUPIL DILATION
+----------------------------------------
+  Task1: D1=0.0172, D2=0.0548, Change=-68.56%, p=0.2949 
+    Winner: Dashboard 1
+  Task2: D1=0.0127, D2=0.0389, Change=-67.47%, p=0.4902 
+    Winner: Dashboard 1
+  Task3: D1=0.0035, D2=0.0415, Change=-91.65%, p=0.3927 
+    Winner: Dashboard 1
+
+TLX
+----------------------------------------
+  Overall: D1=3.0000, D2=7.3333, Change=-59.09%, p=0.0002 ***
+    Winner: Dashboard 1
+  Overall: D1=2.4444, D2=6.3333, Change=-61.40%, p=0.0010 ***
+    Winner: Dashboard 1
+  Overall: D1=3.0000, D2=6.6667, Change=-55.00%, p=0.0032 ***
+    Winner: Dashboard 1
+  Overall: D1=9.0000, D2=7.4444, Change=20.90%, p=0.0188 ***
+    Winner: Dashboard 2
+  Overall: D1=2.4444, D2=7.1111, Change=-65.62%, p=0.0000 ***
+    Winner: Dashboard 1
+  Overall: D1=2.2222, D2=7.2222, Change=-69.23%, p=0.0000 ***
+    Winner: Dashboard 1
+
+NUM FIXATIONS
+----------------------------------------
+  Task1: D1=104.8889, D2=157.5556, Change=-33.43%, p=0.0337 ***
+    Winner: Dashboard 1
+  Task2: D1=154.7778, D2=227.7778, Change=-32.05%, p=0.0242 ***
+    Winner: Dashboard 1
+  Task3: D1=60.6667, D2=121.7778, Change=-50.18%, p=0.0094 ***
+    Winner: Dashboard 1
+
+TASK DURATION
+----------------------------------------
+  Task1: D1=48.5000, D2=77.6044, Change=-37.50%, p=0.0280 ***
+    Winner: Dashboard 1
+  Task2: D1=72.7056, D2=109.8022, Change=-33.78%, p=0.0215 ***
+    Winner: Dashboard 1
+  Task3: D1=27.0078, D2=57.3856, Change=-52.94%, p=0.0139 ***
+    Winner: Dashboard 1
+
+
+KEY FINDINGS
+--------------------------------------------------------------------------------
+
+Significant improvements in Dashboard 1:
+  • TLX Mental Demand (Overall): 59.09% improvement
+  • TLX Physical Demand (Overall): 61.40% improvement
+  • TLX Temporal Demand (Overall): 55.00% improvement
+  • TLX Effort (Overall): 65.62% improvement
+  • TLX Frustration Level (Overall): 69.23% improvement
+  • Num Fixations (Task1): 33.43% improvement
+  • Num Fixations (Task2): 32.05% improvement
+  • Num Fixations (Task3): 50.18% improvement
+  • Task Duration (Task1): 37.50% improvement
+  • Task Duration (Task2): 33.78% improvement
+  • Task Duration (Task3): 52.94% improvement
+
+Areas where Dashboard 2 performed better:
+  • TLX Performance (Overall): 20.90% better
+
+================================================================================
+END OF REPORT
+================================================================================
